@@ -1,0 +1,24 @@
+﻿  pch.c
+  LibScheduler.c
+  Queue.c
+  Scheduler.c
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(67,22): warning C4098: 'initDataStructure': 'void' function returning a value
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(78,57): warning C4047: '=': 'clock_t' differs in levels of indirection from 'void *'
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(87,73): warning C4047: '=': 'clock_t' differs in levels of indirection from 'void *'
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(88,67): warning C4047: '=': 'clock_t' differs in levels of indirection from 'void *'
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(108,30): warning C4022: 'free': pointer mismatch for actual parameter 1
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(118,49): warning C4022: 'free': pointer mismatch for actual parameter 1
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(119,49): warning C4022: 'free': pointer mismatch for actual parameter 1
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(151,32): warning C4047: '=': 'Queue **' differs in levels of indirection from 'Queue *'
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(288,3): warning C4033: 'isLeftTimeToRunTaskInCpu' must return a value
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(406,27): warning C4090: 'function': different 'const' qualifiers
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(414,27): warning C4090: 'function': different 'const' qualifiers
+  Task.c
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Task.c(64,3): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Task.c(103,23): warning C4028: formal parameter 1 different from declaration
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Task.c(113,17): warning C4028: formal parameter 1 different from declaration
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Task.c(122,22): warning C4028: formal parameter 1 different from declaration
+  TaskPriority.c
+  Generating Code...
+C:\Users\pc\Desktop\new update project\LibScheduler\LibScheduler\Scheduler.c(298): warning C4715: 'isLeftTimeToRunTaskInCpu': not all control paths return a value
+  LibScheduler.vcxproj -> C:\Users\pc\Desktop\new update project\ConsoleApplicationTest\x64\Debug\LibScheduler.lib
